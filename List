@@ -1,15 +1,23 @@
-USDT Contract : 0xAc190285EafB56559A7B9A3EAC1c2f08605F06dd
-Dec : 18
-Token Logo : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xAc190285EafB56559A7B9A3EAC1c2f08605F06dd/usdt.png
+Name : USDT
+Symbols : USDT
+Contract : 0xAc190285EafB56559A7B9A3EAC1c2f08605F06dd
+Logo Url : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xAc190285EafB56559A7B9A3EAC1c2f08605F06dd/usdt.png
+Decimals : 18
 
-USDC Contract : 0xD2cf6d37a7b84224122D7627b243763c62c7a568
-Dec : 18
-Token Logo : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xD2cf6d37a7b84224122D7627b243763c62c7a568/usdc.png
+Name : USDC
+Symbols : USDC
+Contract : 0xD2cf6d37a7b84224122D7627b243763c62c7a568
+Logo Url : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xD2cf6d37a7b84224122D7627b243763c62c7a568/usdc.png
+Decimals : 18
 
-POOKIE Contract : 0xD2cf6d37a7b84224122D7627b243763c62c7a568
-Dec : 18
-Token Logo : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xD05Fd6E0C154f38d0aBd48A835C4609A9aa615A4/pookie.png
+Name : Pookie Swap Token
+Symbols : POOKIE
+Contract : 0xD2cf6d37a7b84224122D7627b243763c62c7a568
+Logo Url : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xD05Fd6E0C154f38d0aBd48A835C4609A9aa615A4/pookie.png
+Decimals : 18 
 
-Hisoka Contract : 0xc25e7782eb52B76E35b856Adae150a669C1C3640
-Dec : 18
-Token Logo : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xc25e7782eb52B76E35b856Adae150a669C1C3640/hisoka.png
+Name : Hisoka
+Symbols : HSK
+Contract : 0xc25e7782eb52B76E35b856Adae150a669C1C3640
+Logo Url : https://raw.githubusercontent.com/0xrzls/PookieList/main/0xc25e7782eb52B76E35b856Adae150a669C1C3640/hisoka.png
+Decimals : 18
